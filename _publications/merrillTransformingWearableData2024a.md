@@ -23,7 +23,7 @@ author: Mike A. Merrill, Akshay Paruchuri, Naghmeh Rezaei, Geza Kovacs, Javier P
 date: '2024-06-11'
 eprint: '2406.06464'
 year: '2024'
-venue: Preprint
+venue: Nature Communications
 eprintclass: cs
 eprinttype: arxiv
 file: /Users/michaelmerrill/Zotero/storage/6FHQRX29/Merrill et al. - 2024 - Transforming
@@ -33,7 +33,7 @@ keywords: Computer Science - Artificial Intelligence,Computer Science - Computat
   and Language
 langid: english
 pdf_path: resources/pubpdfs/merrillTransformingWearableData2024a.pdf
-pubstate: preprint
+pubstate: published
 thumb_path: resources/thumbnails/merrillTransformingWearableData2024a.png
 title: '  Transforming Wearable Data into Health Insights using Large Language Model
   Agents'
